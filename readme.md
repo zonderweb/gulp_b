@@ -1,1 +1,1 @@
-<h1><strong>JS CHLD</strong> <br>Learn JS</h1>
+<h1>GULP_clear_project</h1>
